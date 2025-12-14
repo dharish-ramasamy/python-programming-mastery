@@ -22,9 +22,9 @@ This repository serves as a foundational step toward:
 
 ## 📜 Certificate
 - Issued by: Udemy  
-- Course: Python Programming Mastery: From Beginner to Pro
+- Course: Python Programming Mastery: From Beginner to Pro </br></br>
 
----
 
-> Maintained by **Dharish Ramasamy**
+> Maintained by **Dharish Ramasamy**</br>
+> Embedded Software Engineer
 
